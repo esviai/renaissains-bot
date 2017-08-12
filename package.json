@@ -1,7 +1,7 @@
 {
   "name": "renaissains-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "a renaissains bot",
   "main": "app.js",
   "dependencies": {
     "@line/bot-sdk": "^2.0.0",
